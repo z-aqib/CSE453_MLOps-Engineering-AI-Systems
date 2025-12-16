@@ -1,0 +1,17 @@
+- Why MLOps & lifecycle (data, tracking, registry, deploy)
+- Virtualenv & Conda basics (create, activate, export YAML)
+- Containers vs VMs (hypervisor, kernel sharing, speed)
+- Docker basics: build/run/push, layers, ENTRYPOINT, FROM
+- Write a simple Dockerfile (CentOS + Python + bash)
+- Kubernetes purpose & scaling (horizontal vs vertical)
+- Feature stores (train-serve skew, batch/online)
+- AutoML (Ludwig, FLAML)
+- Cloud ML tools (Vertex AI, SageMaker, AWS services)
+- MLflow (tracking URI, start_run, logging)
+- Drift detection (data vs concept)
+- CI/CD basics, FastAPI serving, containers for microservices
+- Conda export/recreate cmds
+git url: github.com:smsali97/llm-ops-course.git 
+Till mlflow only theory is coming 
+Yes you must know how to write like a basic docker file and the basic git commands For mlflow 
+just follow the code repo tutorial i shared in class (in github), how and what is logged etc
